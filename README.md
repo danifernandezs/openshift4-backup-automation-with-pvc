@@ -1,2 +1,9 @@
-# openshift4-backup-automation-with-pvc
-Cronjob to automate the steps to create an Openshift 4 backup and move a copy of it to a persistent volume.
+
+
+# License
+
+<img src="./img/by-sa.png">
+
+This work is under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+Please read the LICENSE files for more details.
